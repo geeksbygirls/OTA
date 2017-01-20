@@ -4,7 +4,7 @@ release_type=Stable
 device_name=ro.product.device
 
 #example RR-N-v5.8.0-20170117-serranoltexx-Unofficial.zip
-version_source=ro.RR.version
+version_source=ro.rr.version
 version_delimiter=-
 version_position=3
 version_format=MMddyyyy
