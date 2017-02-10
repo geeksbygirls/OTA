@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <serranoltexx>
-            <Filename>RR-N-v5.8.1-20170208-serranoltexx-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170210-serranoltexx-Unofficial.zip</Filename>
         <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=745425885120706364
+                description="Download latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=529152257862701940
 	</RomUrl>
         <OpenGappsUrl
                 id="open_gapps"
