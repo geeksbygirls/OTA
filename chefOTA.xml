@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <serranoltexx>
-            <Filename>RR-N-v5.8.1-20170212-serranoltexx-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170214-serranoltexx-Unofficial.zip</Filename>
         <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest RR REMIXED build">https://www.androidfilehost.com/?fid=529152257862702483
+                description="Download latest RR REMIXED build">https://www.androidfilehost.com/?fid=745425885120708000
 	</RomUrl>
         <OpenGappsUrl
                 id="open_gapps"
