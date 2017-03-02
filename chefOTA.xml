@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <serranoltexx>
-            <Filename>RR-N-CMSU-v5.8.2-20170301-serranoltexx-gelstatset.zip</Filename>
+            <Filename>RR-N-CMSU-v5.8.2-20170302-serranoltexx-gelstatset.zip</Filename>
         <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest RR REMIXED build">https://www.androidfilehost.com/?fid=673368273298935108
+                description="Download latest RR REMIXED build">https://www.androidfilehost.com/?fid=745425885120712073
 	</RomUrl>
         <OpenGappsUrl
                 id="open_gapps"
