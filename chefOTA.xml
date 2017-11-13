@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <serranoltexx>
-            <Filename>RR-N-MAGISK-v5.8.5-20171110-serranoltexx-gelstatset.zip</Filename>
+            <Filename>RR-N-MAGISK-v5.8.5-20171113-serranoltexx-gelstatset.zip</Filename>
         <RomUrl
                 id="rom"
                 title="Rom"
