@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <serranoltexx>
-            <Filename>RR-N-MAGISK-v5.8.5-20171119-serranoltexx-gelstatset.zip</Filename>
+            <Filename>RR-N-MAGISK-v5.8.5-20180303-serranoltexx-gelstatset.zip</Filename>
         <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest RR REMIXED build">https://www.androidfilehost.com/?fid=673791459329062631
+                description="Download latest RR REMIXED build">https://www.androidfilehost.com/?fid=962187416754465483
 	</RomUrl>
         <OpenGappsUrl
                 id="open_gapps"
